@@ -1,6 +1,6 @@
 # Hi, I'm Saif Chkili 👋
 
-**4th-year Computer Engineering Student @ ESPRIT Tunisia**  
+**5th-year Computer Engineering Student @ ESPRIT Tunisia**  
 Mobile Developer · Full-Stack Engineer · AI & Automation Enthusiast
 
 ---
@@ -9,7 +9,7 @@ Mobile Developer · Full-Stack Engineer · AI & Automation Enthusiast
 
 I'm a software engineering student specializing in **native mobile development** (Android & iOS) and **full-stack engineering**, with a growing focus on **AI integration** and **workflow automation**. I love building products that solve real problems — from AI-powered cinema apps to blockchain platforms and inclusive web tools delivered under hackathon pressure.
 
-- 🎓 4th year @ **ESPRIT** — 5-year Engineering Cycle, Tunis
+- 🎓 5th year @ **ESPRIT** — 5-year Engineering Cycle, Tunis
 - 📱 Specialized in **Jetpack Compose**, **SwiftUI**, and **Flutter**
 - 🤖 Building with **n8n**, **AI Agents**, **RAG**, and **LLMs**
 - ⛓️ Exploring **Blockchain** & smart contract automation
